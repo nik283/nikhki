@@ -1,1 +1,2 @@
-it's a markdown file in this repository# nikhki
+Display the output# nikhki
+print(""new python file'')
